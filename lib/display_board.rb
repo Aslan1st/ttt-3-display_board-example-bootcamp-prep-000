@@ -1,4 +1,4 @@
 def display_board
    board_game = ["   |", "   |", "   "]
-   board_gam_devision =
+   board_gam_devision = "-----------"
 end
