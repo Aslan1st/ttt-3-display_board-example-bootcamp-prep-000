@@ -6,5 +6,7 @@ def display_board
         board_game_devision,
         board_game_row[3] + "|" + board_game_row[4] + "|" + board_game_row[5],
         board_game_devision,
-        board_game_row[6] + "|" + board_game_row[7] + "|" + board_game_row[8]
+        board_game_row[6] + "|" + board_game_row[7] + "|" + board_game_row[8];
+  return board_synth
+
 end
