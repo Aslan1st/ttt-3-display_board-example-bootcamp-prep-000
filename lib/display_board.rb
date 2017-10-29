@@ -1,6 +1,7 @@
 def display_board
    board_game_row = Array.new(9, "   ")
    board_game_devision = "-----------"
+   board_synth =
    puts board_game_row[0] + "|" + board_game_row[1] + "|" + board_game_row[2],
         board_game_devision,
         board_game_row[3] + "|" + board_game_row[4] + "|" + board_game_row[5],
